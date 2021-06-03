@@ -3,7 +3,7 @@ This code is a implement of the paper "NHNet: A Non-Local Hierarchical Network f
 
 # Result for real image denoising:
 ----------
-!img[https://github.com/JiaHongZ/NHNet/tree/master/result/submit.jpg]
+![image](https://github.com/JiaHongZ/NHNet/tree/master/result/submit.jpg)
 
 Environment:
 ----------
