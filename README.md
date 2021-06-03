@@ -1,5 +1,9 @@
 # DRNet
-This code is a implement of the paper "NHNet: A Non-Local Hierarchical Network for Image Denoising"
+This code is a implement of the paper "NHNet: A Non-Local Hierarchical Network for Image Denoising".
+
+# Result for real image denoising:
+----------
+!img[https://github.com/JiaHongZ/NHNet/tree/master/result/submit.jpg]
 
 Environment:
 ----------
